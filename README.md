@@ -1,4 +1,2 @@
-## express app
-
-Access with browser http://localhost:8080
-# simple-express
+## Basic Express app built into a Docker image & published to DockerHub using Git Actions.
+Workflow: Push to Repo > Git Actions > Docker Image > DockerHub
